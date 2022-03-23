@@ -42,10 +42,10 @@ separate PDF one can find with my name on it)
   the header file of the same name in which the different 
   potential energy functions are defined.
 
-- In the "TEST_eigen" folder is the code I used to verify 
+- In the "TEST-eigen" folder is the code I used to verify 
   that the code was giving proper eigenvalues and vectors.
 
-- In the "Results" folder are graphical results of the 
+- In the "Result" folder are graphical results of the 
   eigenstates in each specific potential cases for both 50
   by 50 matrices and 100 by 100 matrices.
 
@@ -57,7 +57,7 @@ separate PDF one can find with my name on it)
   the two header files present in this directory (Matrix
   AND Potential). 
 
-- In "Results," there are my results as previously mentioned.
+- In "Result," there are my results as previously mentioned.
   However, do not be alarmed if you do not see such a file 
   when you run the code. "DatFile" files should appear; they
   are the results.
